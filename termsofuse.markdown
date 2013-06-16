@@ -33,7 +33,7 @@ You may not use OPEN-NY to upload computer viruses or other computer code or mal
 
 ###Privacy of this Website's Content
 
-The terms of the OPEN_NY website's Privacy Policy are incorporated into and made a part of these Terms of Use. Content published on OPEN-NY has been vetted by the government agencies supplying the Content in order to reasonably ensure that information protected from disclosure by law is not released therein.  You must contact the supplying government agency if you have any questions or concerns about the privacy of particular Content or contact ITS Counsel’s Office at (518) 473-5115 or opendata@its.ny.gov.
+The terms of the OPEN-NY website's Privacy Policy are incorporated into and made a part of these Terms of Use. Content published on OPEN-NY has been vetted by the government agencies supplying the Content in order to reasonably ensure that information protected from disclosure by law is not released therein.  You must contact the supplying government agency if you have any questions or concerns about the privacy of particular Content or contact ITS Counsel’s Office at (518) 473-5115 or opendata@its.ny.gov.
 
 ###Public Participation
 
