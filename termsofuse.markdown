@@ -47,7 +47,7 @@ To the extent OPEN-NY activates a module or forum for public comment or the uplo
 
 * You shall not engage in activities that may cause interference with or disruption to any network, information service, equipment or user thereof.
 
-* You must not create accounts with OPEN-NY or access the site through unauthorized means, including but not limited to, by using an automated device, script, bot, spider, crawler or scraper.
+* You must not access the site or create accounts with OPEN-NY through unauthorized means, including but not limited to, by using an automated device, script, bot, spider, crawler or scraper.
 
 * You shall comply with the website's confidentiality and security requirements and shall not seek information on other users or attempt to obtain access to, copy, or modify other users' files without express permission.
 
